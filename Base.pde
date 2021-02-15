@@ -2,7 +2,7 @@
 class Base {
   float x;
   float y;
-  int resource = 123;
+  int resource = 0;
   
   Base (float x, float y){
     this.x = x;
